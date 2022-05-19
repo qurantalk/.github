@@ -12,8 +12,14 @@
     <br />
     <a href="https://hashirshoaeb.com">About Developer</a>
     ·
-    <a href="https://github.com/issues">Report Bug</a>
+    <a href="mailto:qurantalk9@gmail.com?subject=Bug!&body=< please write the steps and attach screenshots here >">Report Bug</a>
     ·
-    <a href="https://github.com/issues">Request Feature</a>
+    <a href="mailto:qurantalk9@gmail.com?subject=Feedback!&body=< we would love to hear from you :) >">Feedback</a>
+    ·
+    <a href="mailto:qurantalk9@gmail.com?subject=Feature Request!&body=< we would love to hear from you :) >">Request Feature</a>
   </p>
 </p>
+
+<!-- follow quran repo -->
+<!-- check our instagram -->
+<!-- play store / app store badges -->
