@@ -41,6 +41,11 @@ We also offer internship opportunities for students and professionals who are in
 ### Design
 We use [Figma](https://www.figma.com) to design our app.
 
+### Board
+We use following boards to manage our oraganisation.
+- [Project 5](https://github.com/orgs/qurantalk/projects/5) for QuranTalk App
+- [Project 3](https://github.com/orgs/qurantalk/projects/3) QuranTalk Website / Landing Page
+
 
 <!-- follow quran repo -->
 <!-- check our instagram -->
